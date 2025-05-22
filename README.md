@@ -1,4 +1,4 @@
-# flickr-2048p-picture-downloading
+# flickr-picture-downloading (Able to download any size of figures)
 For users downloading 2048p photos, which is the most fitted size picture for computer.
 
 First, you need to have flickr account, and apply for your own flickr api. Because we will use the api keys when downloading pictures.
